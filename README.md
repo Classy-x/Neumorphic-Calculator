@@ -13,7 +13,7 @@ A simple Neumorphic calculator implemented with HTML, CSS, and JavaScript.
 
 ## Demo
 
-Check out the live demo [here](link-to-live-demo).
+Check out the live demo [here](https://classy-x.github.io/Neumorphic-Calculator/).
 
 ## Features
 
