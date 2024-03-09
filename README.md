@@ -2,14 +2,12 @@
 
 A simple Neumorphic calculator implemented with HTML, CSS, and JavaScript.
 
-[Neumorphic Calculator](demo.png)
-
 ## Table of Contents
 
 - [Demo](#demo)
 - [Features](#features)
 - [Usage](#usage)
-- [Technologies Used](#Technologies Used)
+- [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [Customization](#customization)
 
