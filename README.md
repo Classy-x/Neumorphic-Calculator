@@ -6,7 +6,6 @@ A simple Neumorphic calculator implemented with HTML, CSS, and JavaScript.
 
 - [Demo](#demo)
 - [Features](#features)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [Customization](#customization)
