@@ -9,8 +9,9 @@ A simple Neumorphic calculator implemented with HTML, CSS, and JavaScript.
 - [Demo](#demo)
 - [Features](#features)
 - [Usage](#usage)
-- [Customization](#customization)
+- [Technologies Used](#Technologies Used)
 - [Contributing](#contributing)
+- [Customization](#customization)
 
 ## Demo
 
@@ -22,10 +23,18 @@ Check out the live demo [here](link-to-live-demo).
 - Basic arithmetic operations: addition, subtraction, multiplication, division.
 - Responsive layout for a seamless user experience on different devices.
 
-## Usage
-  
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Contributing
+
+If you have ideas for improvements or would like to contribute to this calculator, please open an issue or submit a pull request. All contributions are welcome!
 
 ## Costomization
 
-- Feel free to customize the calculator to meet your specific needs. You can modify the colors, styles, and add more functionality as desired.
+- Feel free to customize the calculator to meet your specific needs. You can modify the colors, and styles, and add more functionality as desired.
     
