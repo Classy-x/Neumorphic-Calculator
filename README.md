@@ -2,7 +2,7 @@
 
 A simple Neumorphic calculator implemented with HTML, CSS, and JavaScript.
 
-![Neumorphic Calculator](demo.png)
+[Neumorphic Calculator](demo.png)
 
 ## Table of Contents
 
