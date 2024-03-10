@@ -69,6 +69,26 @@ body{
     background-color: rgba(240, 248, 255, 0.432);
 
 }
+#calci_main>span{
+    width: 10px;
+    height: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.664);
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 6px;
+    
+}
 
+#calci_main>span:nth-child(2n){
+    background-color: yellow;
+}
+#calci_main>span:nth-child(2n+1){
+    background-color: green;
+}
+#calci_main>span:first-child{
+    background-color: rgb(255, 30, 0);
+    margin-left: 15px;
+}
 
 
